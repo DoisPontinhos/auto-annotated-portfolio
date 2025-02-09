@@ -7,7 +7,7 @@ client: Um gajo qualquer
 description: Desconhecido
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/after2.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
