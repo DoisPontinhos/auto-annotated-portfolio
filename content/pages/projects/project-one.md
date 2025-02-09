@@ -8,7 +8,7 @@ description: Gay
 featuredImage:
   type: ImageBlock
   url: /images/after3.png
-  altText: Project thumbnail image
+  altText: Gay
 media:
   type: ImageBlock
   url: /images/bg1.jpg
