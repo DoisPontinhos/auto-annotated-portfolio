@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Cosplay boa como o milho
+title: Cosplayer boa como o milho
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
