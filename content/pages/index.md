@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Sou gay
-    subtitle: Very homo
+    subtitle: Muito gay
     styles:
       self:
         height: auto
