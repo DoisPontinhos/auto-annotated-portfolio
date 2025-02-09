@@ -4,7 +4,7 @@ title: Cosplayer boa como o milho
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: 'Epa, a gaja ]e boa como o milho'
+description: 'Epá, é muita areia para o teu camião pá'
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
