@@ -113,7 +113,7 @@ sections:
           name: Mensagem
           label: Message
           hideLabel: false
-          placeholder: Type your message here
+          placeholder: Escreve a tua mensagem
           width: full
           isRequired: false
         - name: updatesConsent
