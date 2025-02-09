@@ -83,7 +83,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Tens algum projeto em mentes? \U0001F4AC"
+    title: "Tens algum projeto em mente? \U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
