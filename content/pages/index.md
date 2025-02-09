@@ -14,7 +14,7 @@ sections:
     subtitle: Gay
     actions:
       - type: Button
-        label: Hire me
+        label: Contacta-me
         altText: ''
         url: /
         showIcon: true
