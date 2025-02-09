@@ -51,7 +51,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Informacao",
+                "label": "Informação",
                 "url": "/info",
                 "altText": ""
             },
