@@ -24,7 +24,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/myself.png
+      url: /images/myself_optimized.png
       altText: Hero image
       caption: Caption of the image
       elementId: ''
