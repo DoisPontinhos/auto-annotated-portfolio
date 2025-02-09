@@ -109,7 +109,7 @@ sections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
-        - name: address
+        - name: telemovel
           label: Address
           hideLabel: true
           placeholder: Address
