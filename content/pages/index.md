@@ -98,7 +98,7 @@ sections:
         - name: ultimoNome
           label: Ultimo Nome
           hideLabel: true
-          placeholder: Last Name
+          placeholder: Ultimo Nome
           isRequired: false
           width: 1/2
           type: TextFormControl
