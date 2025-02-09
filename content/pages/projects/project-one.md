@@ -7,7 +7,7 @@ client: Gay
 description: Gay
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/after3.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
