@@ -43,7 +43,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/myself.png
+      url: /images/myself (1).png
       altText: altText of the image
       caption: Eu
       elementId: ''
