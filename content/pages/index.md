@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: I’m GAY
+    title: Sou gay
     subtitle: Very homo
     styles:
       self:
