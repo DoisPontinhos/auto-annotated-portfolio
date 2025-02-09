@@ -88,7 +88,7 @@ sections:
       type: FormBlock
       elementId: sign-up-form
       fields:
-        - name: firstName
+        - name: primeiroNome
           label: Primeiro Nome
           hideLabel: true
           placeholder: First Name
