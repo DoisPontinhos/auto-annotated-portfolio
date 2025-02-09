@@ -41,12 +41,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/myself (1).png
-      altText: altText of the image
-      caption: Eu
-      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
