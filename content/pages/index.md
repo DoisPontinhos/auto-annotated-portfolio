@@ -4,14 +4,13 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-a
+    colors: colors-f
     backgroundSize: full
     title: Sou gay
     subtitle: Muito gay
@@ -42,6 +41,12 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    media:
+      type: ImageBlock
+      url: /images/myself (1).png
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
