@@ -8,7 +8,7 @@ description: 'Epá, é muita areia para o teu camião pá'
 featuredImage:
   type: ImageBlock
   url: /images/after.png
-  altText: Cosplayer boa q
+  altText: Cosplayer boa que fode
 media:
   type: ImageBlock
   url: /images/bg2.jpg
